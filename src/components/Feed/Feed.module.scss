@@ -21,7 +21,7 @@
         &:hover,
         &:focus {
           color: $color-base;
-          border-bottom: 1px solid $color-base;
+          border-bottom: .5px solid $color-base;
         }
 
       }
@@ -37,7 +37,7 @@
     &-meta {
       &-time {
         font-size: $typographic-small-font-size;
-        color: $color-base;
+        color: $color-white;
         font-weight: 600;
         text-transform: uppercase;
       }
