@@ -27,7 +27,7 @@ module.exports = {
   author: {
     name: 'Ryan Emmons',
     photo: '/photo.jpg',
-    bio: 'LFI but no log to share it with.',
+    bio: 'What\'s the point of having LFI if you have no log to share it with?',
     contacts: {
       email: '',
       facebook: '#',
