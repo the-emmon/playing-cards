@@ -1,13 +1,19 @@
 ---
 title: "About me"
 template: "page"
-socialImage: "/media/image-2.jpg"
 ---
+Hey, thanks for stopping by, I'm Ryan!
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I grew up in Kansas City, but I've been disguised as a Chicagoan for a couple years and I'm loving it.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I'm currently working hard on getting my OSCP. I'm passionate about Linux privilege escalation techniques - sysadmins beware!
+In addition to grinding CTFs for my upcoming exam, I've been bouncing between learning C, Javascript, and analyzing the code of various vulnerable open-source projects.
+I love writing code that I feel is missing in the world. I've written a couple tools that I've shared with the OSCP-prep community, and I've got a few more in the works. Stay tuned!
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+Familiar technologies: Wordpress, Docker, Gatsby, Memcached, Apache, Git, SQL Server, MySQL, and I've done a bit of pentesting work involving AWS and GraphQL.
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+Languages: Nim, Python, PHP, Bash, SQL, CSS. 
+
+I also do a good impression of someone who knows Ruby, but it's not a language I've ever used in a project.
+
+If you're still reading, shoot me a message at remmons@ryanmichaelemmons.com and introduce yourself! I'm always thrilled to connect with anyone passionate about security.

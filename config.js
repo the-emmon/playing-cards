@@ -3,7 +3,7 @@
 module.exports = {
   url: 'https://infiltrating.computer',
   pathPrefix: '/',
-  title: './ryan_michael_emmons.com',
+  title: 'whois ryanmichaelemmons',
   subtitle: 'Netsec tips, tricks, and tools.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
@@ -29,15 +25,15 @@ module.exports = {
     photo: '/photo.jpg',
     bio: 'What\'s the point of having LFI if you have no log to share it with?',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'remmons@ryanmichaelemmons.com',
+      facebook: '',
+      telegram: '',
+      twitter: '',
+      github: 'the-emmon',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
