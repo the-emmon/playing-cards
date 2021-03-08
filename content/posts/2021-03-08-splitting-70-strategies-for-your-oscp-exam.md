@@ -3,7 +3,7 @@ template: post
 title: "Splitting 70: Strategies for your OSCP exam."
 slug: strategies-for-taking-the-oscp
 socialImage: https://teckk2.github.io/assets/images/offsec-logo.png
-draft: true
+draft: false
 date: 2021-03-08T01:36:04.776Z
 description: Much like the ACT, the OSCP is just as much a matter of knowing how
   to take the exam as it is learning the material itself. If you understand that
