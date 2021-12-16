@@ -13,7 +13,7 @@ tags:
   - oscp
   - security
   - pentesting
-  - WE-DON'T-KNOW-WHERE-THIS-MESSAGE-WILL-END-UP-IN-YOUR-DREAM-BUT-WE-HOPE-WE'RE-GETTING-THROUGH
+  - WE-DON'T-KNOW-WHERE-THIS-MESSAGE-WILL-END-UP-IN-YOUR-DREAM
 ---
 My first OSCP test was two days ago. I ended the exam with 60 points, no certification.
 
